@@ -1,1 +1,1 @@
-[GitHub] (https://lab.github.com/githubtraining/github-pages)
+[GitHub](http://github.com)
